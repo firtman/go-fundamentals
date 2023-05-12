@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+    padding: 0 40px;
+}
+
+article {
+    margin: 18px;
+    padding: 18px;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+article img {
+    width: 100%;
+}
+
+article h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+}

@@ -1,0 +1,20 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5_1407)">
+<circle cx="512" cy="512" r="512" fill="url(#paint0_linear_5_1407)"/>
+<mask id="mask0_5_1407" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="170" y="252" width="684" height="514">
+<path d="M853.333 252.587H170.667V765.87H853.333V252.587Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_5_1407)">
+<path d="M506.108 765.87H423.982V483.564H304.028L256.606 401.439H423.982V334.712H218.084L170.672 252.587H508.33L635.896 473.529V637.78L506.108 412.988V765.87ZM556.112 252.587H650.941L852.574 601.819V764.422L851.865 764.828L556.112 252.587Z" fill="#EFF3F5"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5_1407" x1="0" y1="0" x2="1096.29" y2="84.3366" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5ACAED"/>
+<stop offset="1" stop-color="#797596"/>
+</linearGradient>
+<clipPath id="clip0_5_1407">
+<rect width="1024" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>
