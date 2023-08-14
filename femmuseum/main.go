@@ -43,7 +43,7 @@ func main() {
 	server.Handle("/", fs)
 
 	err := http.ListenAndServe(":3333", server)
-	if err == nil {
+	if err != nil {
 		print("Error opening the server")
 	}
 }
